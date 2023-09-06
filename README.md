@@ -1,10 +1,11 @@
-### Hi there 👋
-
+### Всем привет, я Виктор!
+#### Учусь в Политехе на направлении Радиотехника
+- Увлекаюсь физикой и математикой
 <!--
 **ViktorP08/ViktorP08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+1. Пункт первый
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
